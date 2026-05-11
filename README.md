@@ -374,7 +374,7 @@ If you like this project:
 # 📬 Contact
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/kmtrrdev
 
 LinkedIn:
-https://linkedin.com/in/YOUR_PROFILE
+https://www.linkedin.com/in/mohamed-ahmed-289b9a2b8/
